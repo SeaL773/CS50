@@ -1,4 +1,4 @@
-# CS50-Self-Learning
+# CS50
 This repository contains my personal solutions for the labs and problem sets from Harvard University's CS50 course, also known as "Introduction to Computer Science". The course covers a broad range of fundamental computer science concepts, using a variety of programming languages including C, Python, JavaScript and more.
 
 # Content
