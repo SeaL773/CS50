@@ -6,7 +6,7 @@ The repository is organized by week (problem sets) and labs. Each problem set an
 
 Please note that this content is meant for educational purposes and reference. If you're currently enrolled in the course, I highly encourage you to try and solve the problem sets yourself before referring to these solutions.
 
-Since I am using my own vscode environment, please refer to https://github.com/cs50/libcs50/issues/189 to add cs50.h to your local environment or use Github cs50 dev
+Since I am using my own vscode environment, please refer to https://github.com/cs50/libcs50/issues/189 to add cs50.h to your local environment or use Github cs50 dev.
 
 Feel free to ask me any questions, it helps us get better together!
 
