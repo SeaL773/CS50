@@ -1,4 +1,4 @@
-#include <cs50.h>
+#include "cs50.h"
 #include <ctype.h>
 #include <math.h>
 #include <stdio.h>
@@ -25,5 +25,18 @@ int main(void)
 
 int convert(string input)
 {
-    // TODO
+    int n = strlen(input);
+
+    if (n == 0)
+    {
+        return 0;
+    }
+
+    int digit = input[n - 1] - '0';
+
+    char shorter[n];
+    strncpy(shorter, input, n - 1);
+    shorter[n - 1] = '\0';
+
+    return 10 * convert(shorter) + digit;
 }
