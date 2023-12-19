@@ -8,6 +8,8 @@ Please note that this content is meant for educational purposes and reference. I
 
 Since I am using my own vscode environment, please refer to https://github.com/cs50/libcs50/issues/189 to add cs50.h to your local environment or use Github cs50 dev.
 
+I'll try to upload all the less comfortable and more comfortable topics, some directly overlap and some are just separate topics, so I think it makes sense to go for it since it exists.
+
 Feel free to ask me any questions, it helps us get better together!
 
 # Languages Used
