@@ -16,6 +16,7 @@ Feel free to ask me any questions, it helps us get better together!
 
 # Languages Used
 * C
+* Python
 
 # Disclaimer
 These solutions are provided "as is" and there is no guarantee that they are free of errors. Please use them at your own risk.
